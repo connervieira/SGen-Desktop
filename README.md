@@ -2,10 +2,10 @@
 SGen Desktop is a toolset for generating, analyzing, and manipulating random strings of information on MacOS
 
 ## Binaries
-A complied version can be downloads on the Mac App Store. See https://v0lttech.com/sgendesktop.php
+A complied version can be downloaded on the Mac App Store. See https://v0lttech.com/sgendesktop.php
 
 ## Tools
-1. Random string generator
+1. Random String Generator
 2. Character Frequency Analysis
 3. Character Listing
 4. Unique Character Counter
