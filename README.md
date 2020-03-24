@@ -1,6 +1,9 @@
 # SGen-Desktop
 SGen Desktop is a toolset for generating, analyzing, and manipulating random strings of information on MacOS
 
+## License
+Licensed under the V0LT Source Code License: https://v0lttech.com/files/documents/licenses/VoltSourceCodeLicense.pdf
+
 ## Binaries
 A complied version can be downloaded on the Mac App Store. See https://v0lttech.com/sgendesktop.php
 
